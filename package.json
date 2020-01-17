@@ -1,5 +1,5 @@
 {
-  "name": "vue-awesom-table",
+  "name": "vue-awesome-table",
   "version": "1.0.0",
   "description": "Simple component for building fast and extendable tables and datagrids, with Vue.",
   "main": "index.js",
