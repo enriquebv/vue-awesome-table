@@ -1,0 +1,21 @@
+{
+  "name": "vue-awesom-table",
+  "version": "1.0.0",
+  "description": "Simple component for building fast and extendable tables and datagrids, with Vue.",
+  "main": "index.js",
+  "repository": "https://github.com/enriquebv/vue-table-headless.git",
+  "author": "Enrique Bernabeu <ebvcontacto@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev:example:basic": "parcel ./examples/basic/index.html"
+  },
+  "dependencies": {
+    "parcel-bundler": "^1.12.4",
+    "vue": "^2.6.11",
+    "vue-hot-reload-api": "^2.3.4"
+  },
+  "devDependencies": {
+    "@vue/component-compiler-utils": "^3.1.1",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
