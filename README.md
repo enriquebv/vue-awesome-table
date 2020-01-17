@@ -1,4 +1,4 @@
-# table-vue
+# vue-table-headless
 **WORK IN PROGRESS**
 
 Simple component for building fast and extendable tables and datagrids, with Vue.
