@@ -10,7 +10,7 @@ Tools to build feature-rich tables and datagrids, with Vue.
   - [ ] Sorting
   - [ ] Grouping
   - [ ] Pagination
-- [ ] Componente de tabla usando el mixin.
+- [ ] Table component using headless mixin.
 
 ## ¿Headless?
 
