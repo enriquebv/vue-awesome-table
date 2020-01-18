@@ -2,13 +2,26 @@
 
 # table-awesome-table
 
-Simple component for building fast and extendable tables and datagrids, with Vue.
+Tools to build feature-rich tables and datagrids, with Vue.
+
+## To-Do
+
+[ ] Headless mixin.
+[ ] Table component using headless mixin.
+
+## ¿Headless?
+
+This plugin don't try to provide you a fully-designed table with wich you will have to fight to change the styles. Instead of that, vue-awesome-table try to provide an easy-to-use API to create yourself your awesome tables. We care about functionality.
+
+### But... I just want to display a table
+
+The plugin also provides an skeleton of a datagrid, what includes things like sorting, grouping, pagination, etc, to make your life even easier.
 
 ## Idea
 
 You provide the data, and we make an awesome table, with sorting, grouping, pagination, etc.
 
 **Todo**
-[] Sorting
-[] Grouping
-[] Pagination
+[ ] Sorting
+[ ] Grouping
+[ ] Pagination

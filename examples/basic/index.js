@@ -5,17 +5,17 @@ Vue.use(VueTable);
 
 const headers = [
   {
-    header: "Name",
+    name: "Name",
     columns: [
-      { header: "First Name", accesor: "firstName" },
-      { header: "Last Name", accesor: "lastName" }
+      { name: "First Name", property: "firstName" },
+      { name: "Last Name", property: "lastName" }
     ]
   },
   {
     header: "Info",
     columns: [
-      { header: "Age", accesor: "age" },
-      { header: "Visits", accesor: "visits" }
+      { name: "Age", property: "age" },
+      { name: "Visits", property: "visits" }
     ]
   }
 ];
