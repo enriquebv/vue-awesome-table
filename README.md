@@ -6,8 +6,11 @@ Tools to build feature-rich tables and datagrids, with Vue.
 
 ## To-Do
 
-[ ] Headless mixin.
-[ ] Table component using headless mixin.
+- [ ] Headless mixin.
+  - [ ] Sorting
+  - [ ] Grouping
+  - [ ] Pagination
+- [ ] Componente de tabla usando el mixin.
 
 ## ¿Headless?
 
@@ -16,12 +19,3 @@ This plugin don't try to provide you a fully-designed table with wich you will h
 ### But... I just want to display a table
 
 The plugin also provides an skeleton of a datagrid, what includes things like sorting, grouping, pagination, etc, to make your life even easier.
-
-## Idea
-
-You provide the data, and we make an awesome table, with sorting, grouping, pagination, etc.
-
-**Todo**
-[ ] Sorting
-[ ] Grouping
-[ ] Pagination
