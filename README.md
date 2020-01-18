@@ -14,7 +14,7 @@ Tools to build feature-rich tables and datagrids, with Vue.
 
 ## ¿Headless?
 
-This plugin don't try to provide you a fully-designed table with wich you will have to fight to change the styles. Instead of that, vue-awesome-table try to provide an easy-to-use API to create yourself your awesome tables. We care about functionality.
+This plugin don't try to provide you a fully-designed table with wich you will have to fight to change the styles. Instead of that, **vue-awesome-table** try to provide an easy-to-use API to create yourself your awesome tables. We care about functionality.
 
 ### But... I just want to display a table
 
