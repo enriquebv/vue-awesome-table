@@ -1,6 +1,6 @@
 **WORK IN PROGRESS**
 
-# table-awesome-table
+# vue-awesome-table
 
 Tools to build feature-rich tables and datagrids, with Vue.
 
